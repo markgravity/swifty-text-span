@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftyTextSpan_Example' do
+  pod 'SwiftyTextSpan', :path => '../'
+
+  target 'SwiftyTextSpan_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
