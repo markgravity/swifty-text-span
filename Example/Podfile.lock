@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyTextSpan (0.1.0)
+
+DEPENDENCIES:
+  - SwiftyTextSpan (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftyTextSpan:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftyTextSpan: ba34f44cddab554b0cec3b23c3962e32efb40396
+
+PODFILE CHECKSUM: 27ece20220da38b770b9e5b9b15f7b48d75f54ab
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,6 @@
+framework module SwiftyTextSpan {
+  umbrella header "SwiftyTextSpan-umbrella.h"
+
+  export *
+  module * { export * }
+}

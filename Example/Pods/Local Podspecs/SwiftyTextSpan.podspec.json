@@ -1,0 +1,22 @@
+{
+  "name": "SwiftyTextSpan",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftyTextSpan.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/markgravity/SwiftyTextSpan",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "markgravity": "markgravity.in@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/markgravity/SwiftyTextSpan.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftyTextSpan/Classes/**/*"
+}

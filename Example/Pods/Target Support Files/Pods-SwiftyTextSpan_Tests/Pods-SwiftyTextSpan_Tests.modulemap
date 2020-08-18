@@ -1,0 +1,6 @@
+framework module Pods_SwiftyTextSpan_Tests {
+  umbrella header "Pods-SwiftyTextSpan_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
